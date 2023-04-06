@@ -36,4 +36,6 @@ public class DepartmentServiceImpl implements IDepartmentService {
 		return departmentRepository.findAll();
 	}
 
+	
+
 }

@@ -8,4 +8,5 @@ public interface IDepartmentService {
 	void delete(Long id);
 	void insertOrUpdate(Department department);
 	List<Department> fillAll();
+	
 }
